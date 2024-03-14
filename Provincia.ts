@@ -1,0 +1,23 @@
+enum Provincia {
+    BuenosAires,
+    Catamarca,
+    Chaco,
+    Chubut,
+    Córdoba,
+    Corrientes,
+    EntreRios,
+    Formosa,
+    Jujuy,
+    LaPampa,
+    LaRioja,
+    Mendoza,
+    Misiones,
+    Neuquen, 
+    RíoNegro,
+    Salta, 
+    SanJuan, 
+    SanLuís,
+    SantaCruz,
+    SantaFe, 
+    Santiago
+}
